@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Le Minh Hoang
-- 👀 I’m interested in ComputerVision
+- 👀 I’m interested in ComputerVision, VLM,  MLOps and AI for Edge device
 - :school: I graduated from VNU University of Engineering and Technology 
 - 📫 How to reach me: lhoang17062000@gmail.com
 <!---
